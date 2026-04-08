@@ -1,4 +1,4 @@
-# 🚀 Web Crawling Job Alert Bot
+# 🚀 Web Scraper Job Alert Bot
 
 This project automatically monitors job platforms and sends instant Telegram alerts when new software engineering internship opportunities are posted.
 
